@@ -1,5 +1,6 @@
 # German Credit Data 
 # 2016-12-01
+# Created by Laurent Montigny
 
 import os
 import shutil
